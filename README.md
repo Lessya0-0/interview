@@ -5,4 +5,5 @@
 **Запуск скрипта**
 
 chmod +x interview.sh
+
 ./interview.sh
