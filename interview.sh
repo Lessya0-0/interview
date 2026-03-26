@@ -61,7 +61,7 @@ loading "Сканирование мотивации..."
 echo
 
 echo -e "${GREEN}>> Технический стек:${NC}"
-echo "  * Linux (Ubuntu, CentOS, 40+ серверов)"
+echo "  * Linux (Ubuntu, CentOS, 100+ серверов)"
 echo "  * PostgreSQL (Кластеры, Репликация, Failover)"
 echo "  * Bash (Автоматизация, Скрипты)"
 echo "  * Docker & Kubernetes (Basic & Learning)"
@@ -96,6 +96,7 @@ echo
 
 echo -e "${CYAN}>> P.S. Ваше задание выполнено:${NC}"
 echo "  version 5.1.16(1)-release (x86_64-pc-linux-gnu)"
+echo -e "${CYAN}>>Ответное сообщение:${NC}"
 echo '  echo -n "SW52aXRlIG1lIGZvciBhbiBpbnRlcnZpZXcgXi1eCg==" | base64 -d'
 echo
 
